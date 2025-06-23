@@ -1,4 +1,5 @@
-![logo](https://github.com/vashishtha9411/Yash-Vashishtha/blob/main/freeCodeCamp-logo.png)
+![Java Backend Banner](https://raw.githubusercontent.com/vashishtha9411/vashishtha9411/main/java-backend-banner.png)
+
 
 <h1 align="center">Hi 👋, I'm Yash Vashishtha</h1>
 <h3 align="center">A Passionate Java Backend Developer</h3>
