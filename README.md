@@ -4,11 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Yash Vashishtha</h1>
-<h3 align="center">A Passionate Java Backend Developer from India 🇮🇳</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vashishtha9411&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<h3 align="center">Java Developer | Spring Boot | Hibernate | REST APIs | Backend Enthusiast</h3>
 
 ---
 
